@@ -9,6 +9,8 @@ Make a shared state AJAX drawing program
 
 References
 ========================
+## XMLHttpRequest
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
 
 ## Canvas:
 https://www.w3schools.com/html/html5_canvas.asp<br>
